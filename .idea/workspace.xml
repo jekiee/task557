@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44897e02-1836-4c28-ae35-0842ec819059" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BinaryNumber/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BinaryNumber/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BinaryNumber/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BinaryNumber/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BinaryNumber/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BinaryNumber/BinaryNumber.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BinaryNumber/out/production/BinaryNumber/com/company/BinaryNumbers.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BinaryNumber/out/production/BinaryNumber/com/company/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BinaryNumber/src/com/company/BinaryNumbers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../BinaryNumber/src/com/company/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/Coffee.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/out/production/Coffee/com/company/Cappuchino.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/out/production/Coffee/com/company/Coffe.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/out/production/Coffee/com/company/Latte.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/out/production/Coffee/com/company/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/src/com/company/Americano.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/src/com/company/Cappuchino.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/src/com/company/IDrink.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/src/com/company/Latte.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Coffee/src/com/company/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../CreateFile/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../CreateFile/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../CreateFile/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../CreateFile/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../CreateFile/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../CreateFile/CreateFile.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../CreateFile/out/production/CreateFile/com/company/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../CreateFile/src/com/company/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ReadTextFromFile/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ReadTextFromFile/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ReadTextFromFile/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ReadTextFromFile/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ReadTextFromFile/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ReadTextFromFile/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ReadTextFromFile/ReadTextFromFile.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ReadTextFromFile/out/production/ReadTextFromFile/com/company/Animal.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ReadTextFromFile/out/production/ReadTextFromFile/com/company/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ReadTextFromFile/src/com/company/Animal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ReadTextFromFile/src/com/company/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../TXT/массив-Х.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/gutenberg/alice30.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/gutenberg/crsto10.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch02/ImageViewer/ImageViewer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch02/ImageViewer/cay.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch02/ImageViewer/duke.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch02/ImageViewer/mug.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch02/RoadApplet/RoadApplet.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch02/RoadApplet/RoadApplet.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch02/RoadApplet/RoadApplet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch02/RoadApplet/RoadApplet.mf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch02/RoadApplet/RoadComponent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch02/RoadApplet/makejar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch02/Welcome/Welcome.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch03/BigIntegerTest/BigIntegerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch03/CompoundInterest/CompoundInterest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch03/FirstSample/FirstSample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch03/InputTest/InputTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch03/LotteryArray/LotteryArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch03/LotteryDrawing/LotteryDrawing.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch03/LotteryOdds/LotteryOdds.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch03/Retirement/Retirement.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch03/Retirement2/Retirement2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch04/CalendarTest/CalendarTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch04/ConstructorTest/ConstructorTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch04/EmployeeTest/EmployeeTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch04/PackageTest/PackageTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch04/PackageTest/com/horstmann/corejava/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch04/ParamTest/ParamTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch04/StaticTest/StaticTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/abstractClasses/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/abstractClasses/Person.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/abstractClasses/PersonTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/abstractClasses/Student.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/arrayList/ArrayListTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/arrayList/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/arrays/CopyOfTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/enums/EnumTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/equals/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/equals/EqualsTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/equals/Manager.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/inheritance/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/inheritance/Manager.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/inheritance/ManagerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/methods/MethodTableTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/objectAnalyzer/ObjectAnalyzer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/objectAnalyzer/ObjectAnalyzerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch05/reflection/ReflectionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch06/anonymousInnerClass/AnonymousInnerClassTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch06/clone/CloneTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch06/clone/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch06/innerClass/InnerClassTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch06/interfaces/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch06/interfaces/EmployeeSortTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch06/lambda/LambdaTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch06/localInnerClass/LocalInnerClassTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch06/proxy/ProxyTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch06/staticInnerClass/StaticInnerClassTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch06/timer/TimerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch07/except/ExceptTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch07/except/manifest.mf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch07/exceptional/ExceptionalTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch07/logging/LoggingImageViewer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch07/stackTrace/StackTraceTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch08/genericAlgorithms/GenericAlgorithms.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch08/genericAlgorithms/Pair.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch08/genericReflection/GenericReflectionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch08/pair1/Pair.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch08/pair1/PairTest1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch08/pair2/Pair.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch08/pair2/PairTest2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch08/pair3/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch08/pair3/Manager.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch08/pair3/Pair.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch08/pair3/PairTest3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch09/circularArrayQueue/CircularArrayQueueTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch09/linkedList/LinkedListTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch09/map/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch09/map/MapTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch09/priorityQueue/PriorityQueueTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch09/set/SetTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch09/shuffle/ShuffleTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch09/sieve/Sieve.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch09/sieve/sieve.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch09/treeSet/Item.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch09/treeSet/TreeSetTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch10/blue-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch10/draw/DrawTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch10/fill/FillTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch10/font/FontTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch10/icon.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch10/image/ImageTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch10/listFonts/ListFonts.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch10/notHelloWorld/NotHelloWorld.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch10/simpleFrame/SimpleFrameTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch10/sizedFrame/SizedFrameTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/action/ActionFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/action/ActionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/blue-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/button/ButtonFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/button/ButtonTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/mouse/MouseComponent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/mouse/MouseFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/mouse/MouseTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/plaf/PlafFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/plaf/PlafTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/red-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch11/yellow-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/ace.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/blue-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/border/BorderFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/border/BorderTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/calculator/Calculator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/calculator/CalculatorFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/calculator/CalculatorPanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/checkBox/CheckBoxFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/checkBox/CheckBoxTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/circleLayout/CircleLayout.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/circleLayout/CircleLayoutFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/circleLayout/CircleLayoutTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/colorChooser/ColorChooserFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/colorChooser/ColorChooserPanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/colorChooser/ColorChooserTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/comboBox/ComboBoxFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/comboBox/ComboBoxTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/copy.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/cut.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/dataExchange/DataExchangeFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/dataExchange/DataExchangeTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/dataExchange/PasswordChooser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/dataExchange/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/dialog/AboutDialog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/dialog/DialogFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/dialog/DialogTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/eventTracer/EventTracer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/eventTracer/EventTracerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/exit.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/fileChooser/FileChooserTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/fileChooser/FileIconView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/fileChooser/ImagePreviewer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/fileChooser/ImageViewerFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/gridbag/FontFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/gridbag/GBC.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/gridbag/GridBagLayoutTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/groupLayout/FontFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/groupLayout/GroupLayoutTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/jack.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/king.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/menu/MenuFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/menu/MenuTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/nine.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/optionDialog/ButtonPanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/optionDialog/OptionDialogFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/optionDialog/OptionDialogTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/palette.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/paste.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/queen.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/radioButton/RadioButtonFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/radioButton/RadioButtonTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/red-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/robot/ButtonFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/robot/RobotTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/slider/SliderFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/slider/SliderTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/ten.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/text/TextComponentFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/text/TextComponentTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/toolBar/ToolBarFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/toolBar/ToolBarTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch12/yellow-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/META-INF/services/serviceLoader.Cipher" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/NotHelloWorldApplet.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/ResourceTest.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/applet/NotHelloWorld.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/chart/Chart.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/chart/Chart.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/java.policy.applet" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/preferences/PreferencesTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/properties/PropertiesTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/resource/ResourceTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/resource/ResourceTest.mf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/resource/about.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/resource/about.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/serviceLoader/Cipher.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/serviceLoader/ServiceLoaderTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/serviceLoader/impl/CaesarCipher.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/systemInfo/SystemInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/webstart/Calculator.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/webstart/Calculator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/webstart/Calculator.jnlp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/webstart/CalculatorFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/webstart/CalculatorPanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/webstart/calc_icon32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch13/webstart/calc_icon64.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/blockingQueue/BlockingQueueTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/bounce/Ball.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/bounce/BallComponent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/bounce/Bounce.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/bounceThread/Ball.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/bounceThread/BallComponent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/bounceThread/BounceThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/forkJoin/ForkJoinTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/future/FutureTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/swing/SwingThreadTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/swingWorker/SwingWorkerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/synch/Bank.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/synch/SynchBankTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/synch2/Bank.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/synch2/SynchBankTest2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/threadPool/ThreadPoolTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/unsynch/Bank.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v1ch14/unsynch/UnsynchBankTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch01/collecting/CollectingIntoMaps.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch01/collecting/CollectingResults.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch01/collecting/DownstreamCollectors.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch01/optional/OptionalTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch01/parallel/ParallelStreams.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch01/streams/CountLongWords.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch01/streams/CreatingStreams.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch01/streams/PrimitiveTypeStreams.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/employee.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/employee2.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/employee3.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/findDirectories/FindDirectories.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/match/HrefMatch.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/memoryMap/MemoryMapTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/memoryMap/MemoryMapTest2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/objectStream/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/objectStream/Manager.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/objectStream/ObjectStreamTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/objectStream/employee.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/randomAccess/DataIO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/randomAccess/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/randomAccess/RandomAccessTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/randomAccess2/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/randomAccess2/RandomAccessTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/regex/RegexTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/serialClone/SerialCloneTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/textFile/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/textFile/TextFileTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/textFile/employee.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch02/zip/ZipTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/dom/TreeViewer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/dom/server.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/fontdialog-schema.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/fontdialog.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/gridbag.dtd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/gridbag.xsd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/read/GridBagPane.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/read/GridBagTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/sax/SAXTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/stax/StAXTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/transform/TransformTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/transform/employee.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/transform/makehtml.xsl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/transform/makeprop.xsl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/write/RectangleComponent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/write/XMLWriteFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/write/XMLWriteTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/xpath/XPathTester.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/xpath/fontdialog.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch03/xpath/gridbag.dtd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch04/inetAddress/InetAddressTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch04/interruptible/InterruptibleSocketTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch04/mail/MailTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch04/mail/mail.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch04/mail/message.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch04/post/PostTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch04/post/post.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch04/server/EchoServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch04/socket/SocketTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch04/threaded/ThreadedEchoServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch04/urlConnection/URLConnectionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch05/Authors.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch05/Books.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch05/BooksAuthors.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch05/Publishers.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch05/database.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch05/derby.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch05/exec/ExecSQL.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch05/query/QueryTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch05/test/TestDB.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch05/view/ViewDB.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch06/formatting/Formatting.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch06/localdates/LocalDates.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch06/timeline/Timeline.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch06/zonedTimes/ZonedTimes.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/collation/CollationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/collation/EnumCombo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/collation/GBC.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/dateFormat/DateTimeFormatterTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/dateFormat/EnumCombo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/dateFormat/GBC.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/numberFormat/GBC.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/numberFormat/NumberFormatTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/retire/GBC.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/retire/LocaleCombo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/retire/Retire.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/retire/RetireResources.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/retire/RetireResources_de.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/retire/RetireResources_zh.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/retire/RetireStrings.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/retire/RetireStrings_de.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch07/retire/RetireStrings_zh.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/buttons1/ButtonFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/buttons1/Renjin.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/buttons1/groovy.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/buttons1/init.Renjin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/buttons1/init.sisc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/buttons1/nashorn.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/buttons1/sisc.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/buttons2/ButtonFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/buttons2/action.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/buttons3/ButtonFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/buttons3/ButtonTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/bytecodeAnnotations/EntryLogger.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/bytecodeAnnotations/EntryLoggingAgent.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/bytecodeAnnotations/EntryLoggingAgent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/bytecodeAnnotations/EntryLoggingAgent.mf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/bytecodeAnnotations/LogEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/compiler/ByteArrayJavaClass.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/compiler/CompilerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/compiler/MapClassLoader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/compiler/StringBuilderJavaSource.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/rect/Point.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/rect/Rectangle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/rect/SourceLevelAnnotationDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/runtimeAnnotations/ActionListenerFor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/runtimeAnnotations/ActionListenerInstaller.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/script/ScriptTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/set/Item.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/set/SetTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/sourceAnnotations/ToString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/sourceAnnotations/ToStringAnnotationProcessor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch08/sourceAnnotations/ToStrings.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/Calculator.caesar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/CalculatorFrame.caesar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/CalculatorPanel$1.caesar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/CalculatorPanel$CommandAction.caesar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/CalculatorPanel$InsertAction.caesar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/CalculatorPanel.caesar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/FileReadApplet.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/aes/AESTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/aes/Util.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/applet.policy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/auth/AuthTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/auth/AuthTest.policy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/auth/SysPropAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/auth/action.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/auth/jaas.config" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/auth/login.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/classLoader/Caesar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/classLoader/ClassLoaderTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/classLoader/GBC.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/hash/Digest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/hash/input.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/jaas/JAASFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/jaas/JAASTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/jaas/JAASTest.policy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/jaas/SimpleCallbackHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/jaas/SimpleLoginModule.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/jaas/SimplePrincipal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/jaas/SysPropAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/jaas/jaas.config" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/jaas/password.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/permissions/PermissionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/permissions/PermissionTest.policy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/permissions/WordCheckPermission.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/rsa/RSATest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/rsa/Util.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/signed/FileReadApplet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/verifier/VerifierTest.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch09/verifier/VerifierTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/editorPane/EditorPaneFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/editorPane/EditorPaneTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/DesktopFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/Earth.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/InternalFrameTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/Jupiter.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/Mars.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/Mercury.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/Neptune.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/Pluto.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/Saturn.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/Uranus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/Venus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/internalFrame/document.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/layer/ColorFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/layer/LayerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/list/ListFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/list/ListTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/listRendering/FontCellRenderer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/listRendering/ListRenderingFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/listRendering/ListRenderingTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/longList/LongListFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/longList/LongListTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/longList/WordListModel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/progressBar/ProgressBarFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/progressBar/ProgressBarTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/progressMonitor/ProgressMonitorFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/progressMonitor/ProgressMonitorTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/progressMonitorInputStream/ProgressMonitorInputStreamTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/progressMonitorInputStream/TextFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/spinner/PermutationSpinnerModel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/spinner/SpinnerFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/spinner/SpinnerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/Earth.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/Jupiter.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/Mars.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/Mercury.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/Neptune.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/Planet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/Pluto.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/Saturn.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/SplitPaneFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/SplitPaneTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/Uranus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/splitPane/Venus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/Earth.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/Jupiter.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/Mars.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/Mercury.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/Neptune.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/Pluto.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/Saturn.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/TabbedPaneFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/TabbedPaneTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/Uranus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/Venus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/red-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tabbedPane/yellow-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/table/TableTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/ColorTableCellEditor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/ColorTableCellRenderer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/Earth.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/Jupiter.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/Mars.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/Mercury.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/Moons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/Neptune.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/PlanetTableModel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/Pluto.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/Saturn.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/TableCellRenderFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/TableCellRenderTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/Uranus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableCellRender/Venus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableModel/InvestmentTable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableRowColumn/Earth.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableRowColumn/Jupiter.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableRowColumn/Mars.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableRowColumn/Mercury.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableRowColumn/Neptune.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableRowColumn/PlanetTableFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableRowColumn/Pluto.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableRowColumn/Saturn.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableRowColumn/TableRowColumnTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableRowColumn/Uranus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableRowColumn/Venus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableSelection/TableSelectionFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tableSelection/TableSelectionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/textChange/ChangeTrackingTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/textChange/ColorFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/textFormat/FormatTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/textFormat/FormatTestFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/textFormat/IPAddressFormatter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/textFormat/IntFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tree/SimpleTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/tree/SimpleTreeFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeEdit/TreeEditFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeEdit/TreeEditTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeModel/ObjectInspectorFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeModel/ObjectInspectorTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeModel/ObjectTreeModel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeModel/Variable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeRender/ClassNameTreeCellRenderer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeRender/ClassTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeRender/ClassTreeFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeRender/blue-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeRender/red-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch10/treeRender/yellow-ball.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/book/Banner.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/book/BookTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/book/BookTestFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/book/PrintPreviewCanvas.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/book/PrintPreviewDialog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/cj2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/cj8v2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/composite/CompositeComponent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/composite/CompositeTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/composite/CompositeTestFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/composite/Rule.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/desktopApp/DesktopAppFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/desktopApp/DesktopAppTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/desktopApp/GBC.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dnd/SampleComponents.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dnd/SwingDnDFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dnd/SwingDnDTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/ImageListDnDFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/ImageListDnDTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/ImageTransferable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/images1/Jupiter.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/images1/Mars.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/images1/Mercury.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/images1/Neptune.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/images1/Pluto.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/images1/Uranus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/images1/Venus.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/images2/Earth.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/dndImage/images2/Saturn.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/imageIO/ImageIOFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/imageIO/ImageIOTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/imageIO/e-mail.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/imageProcessing/ImageProcessingFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/imageProcessing/ImageProcessingTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/imageTransfer/ImageTransferFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/imageTransfer/ImageTransferTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/imageTransfer/ImageTransferable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/print/PrintComponent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/print/PrintTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/print/PrintTestFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/printService/PrintServiceTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/rasterImage/RasterImageFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/rasterImage/RasterImageTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/renderQuality/GBC.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/renderQuality/RenderQualityTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/renderQuality/RenderQualityTestFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/renderQuality/face.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/serialTransfer/SerialTransferFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/serialTransfer/SerialTransferTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/shape/ShapeTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/splashScreen/SplashScreenTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/splashScreen/splash.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/stroke/StrokeTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/systemTray/SystemTrayTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/systemTray/cookie.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/systemTray/fortunes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/transferText/TextTransferFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch11/transferText/TextTransferTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/employee/Employee.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/employee/Employee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/employee/EmployeeTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/helloNative/HelloNative.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/helloNative/HelloNative.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/helloNative/HelloNative.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/helloNative/HelloNativeTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/invocation/InvocationTest.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/invocation/Welcome.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf1/Printf1.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf1/Printf1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf1/Printf1Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf2/Printf2.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf2/Printf2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf2/Printf2Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf3/Printf3.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf3/Printf3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf3/Printf3Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf4/Printf4.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf4/Printf4.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/printf4/Printf4Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/win32reg/Win32RegKey.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/win32reg/Win32RegKey.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../horstmann examples/corejava/v2ch12/win32reg/Win32RegKeyTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../polindrom/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../polindrom/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../polindrom/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../polindrom/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../polindrom/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../polindrom/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../polindrom/out/production/polindrom/com/company/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../polindrom/polindrom.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../polindrom/src/com/company/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../study/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../study/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../study/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../study/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../study/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../study/example.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../study/out/production/study/com/company/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../study/src/com/company/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../study/study.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../sumModule/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../sumModule/out/production/sumModule/com/company/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../task278/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../task278/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../task278/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../task278/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../task278/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../task278/INPUT.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../task278/OUTPUT.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../task278/out/production/task278/com/company/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../task278/src/com/company/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../task278/task278.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/INPUT.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/task557.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../untitled/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../untitled/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../untitled/src/com/company/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../untitled/untitled.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/artifacts/user_system_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/artifacts/user_system_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_4_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_3_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_3_3_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_springframework_spring_aop_4_3_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_springframework_spring_beans_4_3_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_springframework_spring_context_4_3_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_springframework_spring_core_4_3_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_springframework_spring_expression_4_3_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_springframework_spring_web_4_3_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/src/main/java/system/controller/UserController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/src/main/java/system/dao/UserDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/src/main/java/system/model/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/src/main/java/system/service/UserService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/src/main/webapp/WEB-INF/pages/test.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/src/main/webapp/WEB-INF/pages/users_check_page.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/src/main/webapp/WEB-INF/pages/users_page.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/src/main/webapp/WEB-INF/spring/spring-config.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/classes/system/controller/UserController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/classes/system/dao/UserDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/classes/system/model/User.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/classes/system/service/UserService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT.war" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/classes/system/controller/UserController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/classes/system/dao/UserDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/classes/system/model/User.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/classes/system/service/UserService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-4.0.4.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/hibernate-core-4.3.3.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/hibernate-entitymanager-4.3.3.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.5.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.5.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-asl-1.9.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.5.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/jandex-1.1.0.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.18.1-GA.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.1.3.GA.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-annotations-1.2.0.Beta1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/lib/xml-apis-1.0.b2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/pages/test.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/pages/users_check_page.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/pages/users_page.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/spring/spring-config.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/target/user-system-1.0-SNAPSHOT/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/user-system.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../usersystem/usersystem.iml" />
+      <change beforePath="$PROJECT_DIR$/../sumModule/src/com/company/Main.java" afterPath="$PROJECT_DIR$/../sumModule/src/com/company/Main.java" />
+      <change beforePath="$PROJECT_DIR$/../task670/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../task670/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="56" lean-forward="false" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readLine</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="216" />
+    <option name="width" value="1403" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="task557" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task557" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task557" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task557" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task557" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task557" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task557" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task557" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task670" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="task557" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44897e02-1836-4c28-ae35-0842ec819059" name="Default" comment="" />
+      <created>1516899190199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516899190199</updated>
+      <workItem from="1516899195070" duration="1804000" />
+      <workItem from="1516956026336" duration="3551000" />
+      <workItem from="1517304321512" duration="43000" />
+      <workItem from="1517320072103" duration="20731000" />
+      <workItem from="1517349640429" duration="1521000" />
+      <workItem from="1517383128310" duration="27096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54746000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22505543" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25831485" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19296375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31485587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="388" column="31" lean-forward="true" selection-start-line="388" selection-start-column="31" selection-end-line="388" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="4610" column="25" lean-forward="false" selection-start-line="4610" selection-start-column="25" selection-end-line="4610" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="56" lean-forward="false" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
